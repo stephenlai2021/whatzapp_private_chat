@@ -1,5 +1,5 @@
 /** @type {import('@sveltejs/kit').Config} */
-import vercel from "@sveltejs/adapter-vercel";
+import vercel from "@sveltejs/adapter-auto";
 
 const config = {
   kit: {
